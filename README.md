@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WedsonTavares
 - 👀 I’m interested in technology.
 - 🌱 I’m currently learning python language.
-- 💞️ I’m looking to collaborate on I’m looking to collaborate on.
+- 💞️ I’m looking to collaborate on tecnology evolution.
 - 📫 How to reach me linkedin.com/in/wedson-tavares-0a7961261.
 
 <!---
