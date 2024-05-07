@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WedsonTavares
 - 👀 I'm a technology student.
-- 🌱 I’m currently learning Python end JavaScript language.
+- 🌱 I’m currently learning JavaScript language.
 - 💞️ Analysis and systems development.
 - 📫 How to reach me [linkedin.com/in/wedson-tavares.](https://www.linkedin.com/in/wedsontavares/)
 
