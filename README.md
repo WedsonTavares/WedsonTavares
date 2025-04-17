@@ -37,8 +37,8 @@
 <h3 align="left">🔥 Minhas estatísticas:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wedsontavares&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt&hide_border=true&order=1" height="150" alt="gráfico de estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wedsontavares&locale=pt&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="gráfico de linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WedsonTavares&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=pt-br&hide_border=false&bg_color=000000&title_color=39d353&text_color=39d353&icon_color=39d353" height="150" alt="gráfico de estatísticas" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WedsonTavares&locale=pt-br&hide_title=false&layout=compact&card_width=350&langs_count=5&hide_border=false&bg_color=000000&title_color=39d353&text_color=39d353" height="150" alt="gráfico de linguagens" />
 </div>
 
 </div>
