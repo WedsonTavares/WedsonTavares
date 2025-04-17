@@ -1,10 +1,8 @@
 <p align="left">Eu sou um desenvolvedor apaixonado por transformar ideias em código.</p>
 
 ###
-
-<h2 align="left">🧑‍💻 Sobre mim</h2>
-
 <p align="left">
+  📚 Ciência da Computação <br>
   📚 Atualmente estudando novas tecnologias para back-end e microSaaS com foco em performance e escalabilidade.<br>
   🎯 Objetivo: criar soluções que facilitem o dia a dia de pessoas e empresas.<br>
   📚 Estou aprendendo .NET, C# e React.<br>
@@ -24,14 +22,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="logo nextjs" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="logo tailwind" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="logo nodejs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="logo tailwindcss" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="logo csharp" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="40" alt="logo .NET" />
 </div>
+
 
 ###
 
