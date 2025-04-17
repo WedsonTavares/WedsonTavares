@@ -1,12 +1,15 @@
-<p align="left">Meu nome é ... e eu sou ..., de ...</p>
+<p align="left">Meu nome é Wedson Tavares e eu sou Desenvolvedor Jr</p>
 
 ###
 
 <h2 align="left">Sobre mim</h2>
+  Eu sou umdesenvolvedor apaixonado por transformar ideias em código.<br><br>
+  📚 Atualmente estudando novas tecnologias para back-end e microSaaS com foco em performance e escalabilidade.<br>
+  🎯 Objetivo: criar soluções que facilitem o dia a dia de pessoas e empresas.<br>
 
 ###
 
-<p align="left">✨ Criando bugs desde ...<br>📚 Atualmente estou aprendendo ...<br>🎯 Objetivos: ...<br>🎲 Curiosidade: ...</p>
+<p align="left">📚 Atualmente estou aprendendo .Net, C# e React...<br>🎯 Objetivos: Me tornar um excelente desenvolvedor<br></p>
 
 ###
 
@@ -41,6 +44,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_light&locale=pt-br&hide_border=false" height="150" alt="gráfico de estatísticas"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_light&hide_border=false" height="150" alt="gráfico de linguagens"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=pt-br&hide_border=false&bg_color=000000&title_color=39d353&text_color=39d353&icon_color=39d353" height="150" alt="gráfico de estatísticas"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&bg_color=000000&title_color=39d353&text_color=39d353" height="150" alt="gráfico de linguagens"  />
 </div>
