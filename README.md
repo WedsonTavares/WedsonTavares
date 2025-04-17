@@ -1,15 +1,9 @@
-<p align="left">Meu nome é Wedson Tavares e eu sou Desenvolvedor Jr</p>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-  Eu sou umdesenvolvedor apaixonado por transformar ideias em código.<br><br>
+   Eu sou umdesenvolvedor apaixonado por transformar ideias em código.<br><br>
+   
   📚 Atualmente estudando novas tecnologias para back-end e microSaaS com foco em performance e escalabilidade.<br>
   🎯 Objetivo: criar soluções que facilitem o dia a dia de pessoas e empresas.<br>
+  📚 Atualmente estou aprendendo .Net, C# e React...<br>🎯 Objetivos: Me tornar um excelente desenvolvedor<br>
 
-###
-
-<p align="left">📚 Atualmente estou aprendendo .Net, C# e React...<br>🎯 Objetivos: Me tornar um excelente desenvolvedor<br></p>
 
 ###
 
@@ -26,13 +20,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="logo nextjs"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="logo storybook"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="logo nodejs"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="logo nestjs"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="logo jest"  />
+
+  
+
 </div>
 
 ###
