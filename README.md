@@ -6,7 +6,7 @@
   📚 Ciência da Computação <br>
   📚 Atualmente estudando novas tecnologias para back-end e microSaaS com foco em performance e escalabilidade.<br>
   🎯 Objetivo: criar soluções que facilitem o dia a dia de pessoas e empresas.<br>
-  📚 Estou aprendendo .NET, C# e React.<br>
+  📚 Estou aprendendo IA, TypeScript e React.<br>
   🎯 Objetivos: Me tornar um excelente desenvolvedor.
 </p>
 
