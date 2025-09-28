@@ -42,5 +42,5 @@
 
 Acesse meu portfólio em: 
 <a href="https://tavaresdev.com/"> 🔗
-  https://gitfollio.vercel.app/WedsonTavares
+Wedson Tavares
 </a>
