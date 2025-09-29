@@ -40,7 +40,7 @@
 </div>
 
 
-Acesse meu portfólio em: 
+Acesse meu portfólio 
 <a href="https://tavaresdev.com/"> 
 Wedson Tavares
 </a>
