@@ -41,6 +41,6 @@
 
 
 Acesse meu portfólio em: 
-<a href="https://tavaresdev.com/"> 🔗
+<a href="https://tavaresdev.com/"> 
 Wedson Tavares
 </a>
