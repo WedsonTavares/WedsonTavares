@@ -7,8 +7,7 @@
 
 <br>
 
-Sou desenvolvedor apaixonado por transformar ideias em código. Trabalho com desenvolvimento web e backend, e gosto de construir aplicações limpas, testáveis e com boa experiência para o usuário.
-
+Sou um desenvolvedor apaixonado por transformar ideias em código. Trabalho com desenvolvimento FullStack, criando aplicações limpas, testáveis e com excelente experiência para o usuário.
 <h2 align="left">Conecte-se comigo</h2>
 
 
