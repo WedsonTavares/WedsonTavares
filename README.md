@@ -14,7 +14,7 @@ Sou desenvolvedor apaixonado por transformar ideias em código. Trabalho com des
 
 [![GitHub](https://img.shields.io/badge/GitHub-WedsonTavares-black?logo=github)](https://github.com/WedsonTavares)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-WedsonTavares-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wedsontavares/)
-[![Email](https://img.shields.io/badge/Email-wedson.sobral%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:wedson.sobral@gmail.com)
+[![Email](https://img.shields.io/badge/Email-wedsonsobral%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:wedson.sobral@gmail.com)
 
 <!-- Adicione seu LinkedIn, email ou site aqui quando quiser -->
 
@@ -27,11 +27,15 @@ Sou desenvolvedor apaixonado por transformar ideias em código. Trabalho com des
 	<img width="12" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
 	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+	<img width="12" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" alt="Node.js" />
 	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 	<img width="12" />
-	<span style="vertical-align: middle; font-size:14px;">.NET</span>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
 </div>
 
 <br>
