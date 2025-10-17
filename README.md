@@ -58,3 +58,5 @@ Sou desenvolvedor apaixonado por transformar ideias em código. Trabalho com des
 	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WedsonTavares/WedsonTavares/output/github-contribution-grid-snake.svg">
 	<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WedsonTavares/WedsonTavares/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!-- trigger workflow index -->
