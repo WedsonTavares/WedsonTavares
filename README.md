@@ -35,16 +35,21 @@ Sou desenvolvedor apaixonado por transformar ideias em código. Trabalho com des
 	<img width="12" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
 	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
 </div>
 
 <br>
 
 <h2 align="left">🔥 Minhas estatísticas</h2>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=WedsonTavares&show_icons=true&hide_title=true&hide_rank=true&count_private=true&locale=pt-br&bg_color=000000&title_color=39d353&text_color=39d353&icon_color=39d353)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=WedsonTavares&langs_count=10&layout=compact&locale=pt-br&bg_color=000000&title_color=39d353&text_color=39d353&icon_color=39d353)
+<div align="center">
+  <a href="https://github.com/WedsonTavares">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WedsonTavares&show_icons=true&hide_title=true&hide_rank=true&count_private=true&locale=pt-br&bg_color=000000&title_color=39d353&text_color=39d353&icon_color=39d353"/>
+  </a>
+  <a href="https://github.com/WedsonTavares">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=WedsonTavares&langs_count=10&layout=compact&locale=pt-br&bg_color=000000&title_color=39d353&text_color=39d353&icon_color=39d353"/>
+  </a>
+</div>
 
 <br>
 
