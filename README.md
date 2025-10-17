@@ -15,9 +15,8 @@ Sou um desenvolvedor apaixonado por transformar ideias em código. Trabalho com 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-WedsonTavares-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wedsontavares/)
 [![Email](https://img.shields.io/badge/Email-wedsonsobral%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:wedson.sobral@gmail.com)
 
-<!-- Adicione seu LinkedIn, email ou site aqui quando quiser -->
 
-<h2 align="left">Minha stack</h2>
+<h2 align="left">Minha Stack</h2>
 
 <div align="left">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
