@@ -11,17 +11,9 @@ Sou desenvolvedor apaixonado por transformar ideias em código. Trabalho com des
 
 <h2 align="left">Conecte-se comigo</h2>
 
-<p>
-	<a href="https://github.com/WedsonTavares" target="_blank" rel="noreferrer">
-		![GitHub](https://img.shields.io/badge/GitHub-WedsonTavares-black?logo=github)
-	</a>
-	<a href="mailto:wedson.sobral@gmail.com" target="_blank" rel="noreferrer">
-		![Email](https://img.shields.io/badge/Email-wedson.sobral%40gmail.com-red?logo=gmail)
-	</a>
-	<a href="https://www.linkedin.com/in/wedsontavares/" target="_blank" rel="noreferrer">
-		![LinkedIn](https://img.shields.io/badge/LinkedIn-Wedson%20Tavares-blue?logo=linkedin&logoColor=white)
-	</a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-WedsonTavares-black?logo=github)](https://github.com/WedsonTavares)
+
+<!-- Adicione seu LinkedIn, email ou site aqui quando quiser -->
 
 <h2 align="left">Minha stack</h2>
 
@@ -41,29 +33,16 @@ Sou desenvolvedor apaixonado por transformar ideias em código. Trabalho com des
 
 <br>
 
-<!-- Estatísticas e Linguagens lado a lado -->
-<div style="display:flex; gap:18px; align-items:flex-start; flex-wrap:wrap;">
-	<div style="flex:1; min-width:260px; max-width:520px; background:#0b0b0b; padding:10px; border-radius:8px; border:1px solid #2c2c2c;">
-		<h3 style="color:#39d353; margin:0 0 8px 0;">🔥 Minhas estatísticas</h3>
-		<img src="https://github-readme-stats.vercel.app/api?username=WedsonTavares&show_icons=true&hide_title=true&hide_rank=true&count_private=true&locale=pt-br&bg_color=000000&title_color=39d353&text_color=39d353&icon_color=39d353" alt="Estatísticas do GitHub" style="width:100%; height:auto; display:block;" />
-	</div>
+<h2 align="left">🔥 Minhas estatísticas</h2>
 
-	<div style="flex:1; min-width:260px; max-width:520px; background:#0b0b0b; padding:10px; border-radius:8px; border:1px solid #2c2c2c;">
-		<h3 style="color:#39d353; margin:0 0 8px 0;">Linguagens mais usadas</h3>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=WedsonTavares&langs_count=10&layout=compact&locale=pt-br&bg_color=000000&title_color=39d353&text_color=39d353&icon_color=39d353" alt="Linguagens mais usadas" style="width:100%; height:auto; display:block;" />
-	</div>
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=WedsonTavares&show_icons=true&hide_title=true&hide_rank=true&count_private=true&locale=pt-br&bg_color=000000&title_color=39d353&text_color=39d353&icon_color=39d353)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=WedsonTavares&langs_count=10&layout=compact&locale=pt-br&bg_color=000000&title_color=39d353&text_color=39d353&icon_color=39d353)
 
 <br>
 
-<!-- Snake animation -->
-<div align="center">
-	<!-- A imagem abaixo é gerada pelo workflow. Se não aparecer, execute o workflow 'Gerar animação da cobrinha' na aba Actions ou aguarde até ele rodar. -->
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WedsonTavares/WedsonTavares/output/github-contribution-grid-snake-dark.svg">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WedsonTavares/WedsonTavares/output/github-contribution-grid-snake.svg">
-		<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WedsonTavares/WedsonTavares/output/github-contribution-grid-snake.svg" style="max-width:100%;" />
-	</picture>
-
-	<p style="font-size:13px; color:#8b8b8b;">Se a animação não aparecer, vá em <strong>Actions</strong> e rode manualmente o workflow "Gerar animação da cobrinha" ou aguarde a próxima execução (a cada 6 horas).</p>
-</div>
+<picture align="center">
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WedsonTavares/WedsonTavares/output/github-contribution-grid-snake-dark.svg">
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WedsonTavares/WedsonTavares/output/github-contribution-grid-snake.svg">
+	<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WedsonTavares/WedsonTavares/output/github-contribution-grid-snake.svg">
+</picture>
