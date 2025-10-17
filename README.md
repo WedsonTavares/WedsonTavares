@@ -12,7 +12,7 @@ Sou desenvolvedor apaixonado por transformar ideias em código. Trabalho com des
 <h2 align="left">Conecte-se comigo</h2>
 
 [![GitHub](https://img.shields.io/badge/GitHub-WedsonTavares-black?logo=github)](https://github.com/WedsonTavares)
-[![Linkedin](https://img.shields.io/badge/GitHub-WedsonTavares-blue?logo=linkedin)](https://www.linkedin.com/in/wedsontavares/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-WedsonTavares-blue?logo=linkedin)](https://www.linkedin.com/in/wedsontavares/)
 
 <!-- Adicione seu LinkedIn, email ou site aqui quando quiser -->
 
