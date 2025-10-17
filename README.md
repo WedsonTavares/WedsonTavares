@@ -4,9 +4,6 @@
 	</a>
 </div>
 
-<div align="center">
-	<img src="https://github.com/WedsonTavares.png" width="160" alt="avatar" />
-</div>
 
 <br>
 
