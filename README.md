@@ -12,6 +12,7 @@ Sou um desenvolvedor apaixonado por transformar ideias em código. Trabalho com 
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-WedsonTavares-black?logo=github)](https://github.com/WedsonTavares)
+[![Portfolio](https://img.shields.io/badge/Portfolio-WedsonTavares.dev-1F425F?logo=githubpages&logoColor=white)](https://wedsontavares.github.io/portifolio-pessoal/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-WedsonTavares-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wedsontavares/)
 [![Email](https://img.shields.io/badge/Email-wedsonsobral%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:wedson.sobral@gmail.com)
 
