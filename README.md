@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.io/typing-svg">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=39d353&center=true&vCenter=true&random=false&width=700&lines=Olá,+bem-vindo+ao+meu+perfil!" alt="Typing SVG">
   </a>
 </div>
@@ -40,10 +40,10 @@ Sou um desenvolvedor apaixonado por transformar ideias em código. Trabalho com 
 
 <div align="center">
   <a href="https://github.com/WedsonTavares">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WedsonTavares&show_icons=true&hide_title=true&hide_rank=true&count_private=true&locale=pt-br&bg_color=000000&title_color=39d353&text_color=39d353&icon_color=39d353&cache_seconds=86400" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WedsonTavares&show_icons=true&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true&locale=pt-br&bg_color=000000&title_color=39d353&text_color=39d353&icon_color=39d353" />
   </a>
   <a href="https://github.com/WedsonTavares">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=WedsonTavares&langs_count=10&layout=compact&locale=pt-br&bg_color=000000&title_color=39d353&text_color=39d353&icon_color=39d353&cache_seconds=86400" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=WedsonTavares&langs_count=10&layout=compact&locale=pt-br&bg_color=000000&title_color=39d353&text_color=39d353&icon_color=39d353" />
   </a>
 </div>
 
