@@ -7,7 +7,11 @@
 
 <br>
 
-Sou um desenvolvedor apaixonado por transformar ideias em código. Trabalho com desenvolvimento FullStack, criando aplicações limpas, testáveis e com excelente experiência para o usuário.
+Desenvolvedor Full Stack apaixonado por transformar ideias em aplicações reais. Trabalho com React, Next.js, Node.js, TypeScript, Supabase e Docker, criando sistemas rápidos, escaláveis e com código limpo.
+
+Gosto de construir interfaces modernas, APIs bem estruturadas e arquiteturas que fazem sentido hoje, amanhã e no futuro. Sou movido por aprendizado contínuo, curiosidade e aquela vontade de sempre deixar o código melhor do que encontrei.
+
+Se é tecnologia, eu tô dentro. Se é desafio, melhor ainda. 💻⚡
 <h2 align="left">Conecte-se comigo</h2>
 
 
