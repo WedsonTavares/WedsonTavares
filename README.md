@@ -40,7 +40,7 @@ Sou um desenvolvedor apaixonado por transformar ideias em código. Trabalho com 
 	<img width="12" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Google Auth" />
 	<img width="12" />
-	<img src="https://supabase.com/dashboard/img/supabase-logo-icon.png" height="40" alt="Supabase" />
+	<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="40" alt="Supabase" />
 	<img width="12" />
 	<img src="https://ui.shadcn.com/favicon.ico" height="40" alt="Shadcn UI" />
 	<img width="12" />
