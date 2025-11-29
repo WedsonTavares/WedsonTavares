@@ -2,11 +2,10 @@
 @media (min-width: 900px) {
   .stack-icons img {
     height: 55px !important; 
-    margin: 10px !important; 
+    margin: 10px !important;
   }
 }
 </style>
-
 
 
 <div align="center">
