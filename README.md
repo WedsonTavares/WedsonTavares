@@ -39,18 +39,6 @@ Sou um desenvolvedor apaixonado por transformar ideias em código. Trabalho com 
 
 <br>
 
-<h2 align="left">🔥 Minhas estatísticas</h2>
-
-<div align="center">
-  <a href="https://github.com/WedsonTavares">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WedsonTavares&show_icons=true&hide_title=true&hide_rank=true&count_private=true&locale=pt-br&bg_color=000000&title_color=39d353&text_color=39d353&icon_color=39d353"/>
-  </a>
-  <a href="https://github.com/WedsonTavares">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=WedsonTavares&langs_count=10&layout=compact&locale=pt-br&bg_color=000000&title_color=39d353&text_color=39d353&icon_color=39d353"/>
-  </a>
-</div>
-
-<br>
 
 <picture align="center">
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WedsonTavares/WedsonTavares/output/github-contribution-grid-snake-dark.svg">
