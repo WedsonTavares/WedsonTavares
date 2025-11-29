@@ -36,7 +36,7 @@ Sou um desenvolvedor apaixonado por transformar ideias em código. Trabalho com 
 	<img width="12" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
 	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" height="40" alt="Vite"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" height="40" alt="Vite"/>
 	
 </div>
 
