@@ -1,3 +1,13 @@
+<style>
+@media (min-width: 900px) {
+  .stack-icons img {
+    height: 55px !important; 
+    margin: 10px !important; 
+  }
+}
+</style>
+
+
 
 <div align="center">
 	<a href="https://git.io/typing-svg">
@@ -35,7 +45,7 @@ Se é tecnologia, eu tô dentro. Se é desafio, melhor ainda. 💻⚡
 
 <h2 align="center">Minha Stack</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 14px;">
+<div class="stack-icons" align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 14px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="TypeScript" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
