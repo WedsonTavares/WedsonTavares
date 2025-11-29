@@ -1,13 +1,4 @@
-<style>
-@media (min-width: 900px) {
-  .stack-icons img {
-    height: 55px !important; 
-    margin: 10px !important;
-  }
-}
-</style>
-
-
+<!-- Título digitando -->
 <div align="center">
 	<a href="https://git.io/typing-svg">
 		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=39d353&center=true&vCenter=true&random=false&width=700&lines=Ol%C3%A1,+bem-vindo+ao+meu+perfil!" alt="Typing SVG">
@@ -16,6 +7,7 @@
 
 <br>
 
+<!-- Texto -->
 <div align="center" style="max-width: 800px; margin: auto;">
 Desenvolvedor Full Stack apaixonado por transformar ideias em aplicações reais. Trabalho com React, Next.js, Node.js, TypeScript, Supabase e Docker, criando sistemas rápidos, escaláveis e com código limpo.
 <br><br>
@@ -28,6 +20,7 @@ Se é tecnologia, eu tô dentro. Se é desafio, melhor ainda. 💻⚡
 
 <h2 align="center">Conecte-se comigo</h2>
 
+<!-- Botões responsivos -->
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 	<a href="https://wedsontavares.github.io/portifolio-pessoal/">
 		<img src="https://img.shields.io/badge/Portfolio-WedsonTavares.dev-1F425F?logo=githubpages&logoColor=white" alt="Portfolio">
@@ -44,7 +37,8 @@ Se é tecnologia, eu tô dentro. Se é desafio, melhor ainda. 💻⚡
 
 <h2 align="center">Minha Stack</h2>
 
-<div class="stack-icons" align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 14px;">
+<!-- Stack responsiva -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 14px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="TypeScript" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
@@ -63,12 +57,11 @@ Se é tecnologia, eu tô dentro. Se é desafio, melhor ainda. 💻⚡
 
 <br>
 
-<div align="center">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WedsonTavares/WedsonTavares/output/github-contribution-grid-snake-dark.svg">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WedsonTavares/WedsonTavares/output/github-contribution-grid-snake.svg">
-		<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WedsonTavares/WedsonTavares/output/github-contribution-grid-snake.svg">
-	</picture>
-</div>
+<!-- Snake -->
+<picture align="center">
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WedsonTavares/WedsonTavares/output/github-contribution-grid-snake-dark.svg">
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WedsonTavares/WedsonTavares/output/github-contribution-grid-snake.svg">
+	<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WedsonTavares/WedsonTavares/output/github-contribution-grid-snake.svg">
+</picture>
 
-
+<!-- trigger workflow index -->
