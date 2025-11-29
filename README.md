@@ -36,9 +36,19 @@ Sou um desenvolvedor apaixonado por transformar ideias em código. Trabalho com 
 	<img width="12" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
 	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" height="40" alt="Vite"/>
-	
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" height="40" alt="Vite" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Google Auth" />
+	<img width="12" />
+	<img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common-assets/images/supabase-logo-icon.svg" height="40" alt="Supabase" />
+	<img width="12" />
+	<img src="https://ui.shadcn.com/favicon.ico" height="40" alt="Shadcn UI" />
+	<img width="12" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI" />
+	<img width="12" />
+	<img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" height="40" alt="Zod" />
 </div>
+
 
 <br>
 
