@@ -23,7 +23,7 @@ Se é tecnologia, eu tô dentro. Se é desafio, melhor ainda. 💻⚡
 <!-- Botões responsivos -->
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 	<a href="https://tavaresdev.com">
-		<img src="Portfolio-Wedson Tavares-1F425F?logo=githubpages&logoColor=white" alt="Portfolio">
+		<img src="https://img.shields.io/badge/Portfolio-Wedson Tavares-1F425F?logo=githubpages&logoColor=white" alt="Portfolio">
 	</a>
 	<a href="https://www.linkedin.com/in/wedsontavares/">
 		<img src="https://img.shields.io/badge/LinkedIn-WedsonTavares-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
