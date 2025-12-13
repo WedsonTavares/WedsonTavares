@@ -22,7 +22,7 @@ Se é tecnologia, eu tô dentro. Se é desafio, melhor ainda. 💻⚡
 
 <!-- Botões responsivos -->
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-	<a href="https://wedsontavares.github.io/portifolio-pessoal/">
+	<a href="https://tavaresdev.com">
 		<img src="https://img.shields.io/badge/Portfolio-WedsonTavares.dev-1F425F?logo=githubpages&logoColor=white" alt="Portfolio">
 	</a>
 	<a href="https://www.linkedin.com/in/wedsontavares/">
