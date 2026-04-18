@@ -9,7 +9,7 @@
 
 <!-- Texto -->
 <div align="center" style="max-width: 800px; margin: auto;">
-Desenvolvedor Full Stack apaixonado por transformar ideias em aplicações reais. Trabalho com React, Next.js, Node.js, TypeScript, Supabase e Docker, criando sistemas rápidos, escaláveis e com código limpo.
+Desenvolvedor Full Stack apaixonado por transformar ideias em aplicações reais. Trabalho com React, Next.js, Node.js, TypeScript, Supabase e Docker, Automações, criando sistemas rápidos, escaláveis e com código limpo.
 <br><br>
 Gosto de construir interfaces modernas, APIs bem estruturadas e arquiteturas que fazem sentido hoje, amanhã e no futuro. Sou movido por aprendizado contínuo, curiosidade e aquela vontade de sempre deixar o código melhor do que encontrei.
 <br><br>
