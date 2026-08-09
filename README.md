@@ -40,7 +40,6 @@ Se é tecnologia, eu tô dentro. Se é desafio, melhor ainda. 💻⚡
 <!-- Stack responsiva -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 14px;">
 	<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n" title="n8n - Automações" />
-	<img src="https://cdn.simpleicons.org/openai/412991" height="40" alt="Agentes de IA" title="Agentes de IA" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="TypeScript" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
